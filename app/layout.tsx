@@ -36,7 +36,7 @@ export default function RootLayout({
 
       <body className={inter.className}>
 
-
+        
       <div className="top-area">
         <div className="header-area">
           {/* <!-- Start Navigation --> */}
