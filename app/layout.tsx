@@ -26,12 +26,6 @@ export default function RootLayout({
 
 
         <NavBar/>
-
-
-
-
-        
-        
         
         {children}
 
